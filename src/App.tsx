@@ -1,5 +1,7 @@
+import { Button, ButtonGroup } from "@chakra-ui/react";
+
 function App() {
-  return <>Video Game App</>;
+  return <Button colorScheme="blue">Button</Button>;
 }
 
 export default App;
